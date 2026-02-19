@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @NOscriptkiddies
-- 👀 I’m interested in deverloping...
-- 🌱 I’m currently learning html,css aud swift
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in developing
+- 🌱 I’m currently learning html,css and swift
+
 
 <!---
 NOscriptkiddies/NOscriptkiddies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
